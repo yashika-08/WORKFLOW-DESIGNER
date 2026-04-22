@@ -140,4 +140,4 @@ Topological sort (Kahn's BFS) determines execution order. Each node generates a 
 
 ---
 
-*Built for the Tredence Studio AI Engineering Internship — 2025 Cohort*
+
